@@ -20,7 +20,7 @@ progress bar.
 The following screenshot illustrates how this widget looks using the
 included example project.
 
-![DoubleProgressBatExample](DoubleProgressBatExample](../../../raw/master/Android-DoubleProgressBar/screenshot.png)
+![DoubleProgressBatExample](DoubleProgressBatExample](https://github.com/simao/Android-DoubleProgressBar/raw/master/screenshot.png)
 
 ## How to use ##
 
