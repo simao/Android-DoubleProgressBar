@@ -20,7 +20,7 @@ progress bar.
 The following screenshot illustrates how this widget looks using the
 included example project.
 
-![DoubleProgressBatExample](screenshot.png)
+![DoubleProgressBatExample](../../../raw/master/screenshot.png)
 
 ## How to use ##
 
