@@ -44,7 +44,7 @@ The usage is actually pretty simple:
         progressDialog.show();
 
 4. Set primary and secondary progress using the appropriate methods,
-always using a progress values ranging from 0 to 100.
+always using progress values ranging from 0 to 100.
 
         progressDialog.setProgress(64);
         progressDialog.setSecondaryProgress(32);
